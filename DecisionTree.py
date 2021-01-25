@@ -738,26 +738,4 @@ print('Accuracy: ', acc, '\nf1-score: ', f1)
 
 # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
 
-"""# Submission Instruction {-}
 
-You're almost done! Take the following steps to finally submit your work.
-
-1. After executing all commands and completing this notebook, save your `Lab_3.ipynb` as a PDF file, named as `X_Y_UIN.pdf`, where `X` is your first name, `Y` is your last name, and `UIN` is your UIN. Make sure that your PDF file includes all parts of your solution, including the plots. 
-
-> * Print out all unit test case results before printing the notebook into a PDF.
-* If you use Colab, open this notebook in Chrome.  Then File -> Print -> set Destination to "Save as PDF".  If the web page freezes when printing, close Chrome and reopen the page. If Chrome doesn't work, try Firefox.
-* If you are working on your own computer, we recommend using the browser (not jupyter) for saving the PDF. For Chrome on a Mac, this is under *File->Print...->Open PDF in Preview*. When the PDF opens in Preview, you can use *Save...* to save it.
-* Sometimes, a figure that appears near the end of a page can get cut.  In this case, try to add some new lines in the preceding code block so that the figure is pushed to the beginning of the next page.
-
-2. Upload `X_Y_UIN.pdf` to Gradescope under `Lab_3_Written`.
-
-3. A template of `Lab_3.py` has been provided.  For all functions in `Lab_3.py`, copy the corresponding code snippets you have written into it.  Do not copy any code of plotting figures. **Do NOT** change the function names.
-
-4. Zip `Lab_3.py` and `Lab_3.ipynb` (**2 files**) into a zip file named `X_Y_UIN.zip`. Suppose the two files are in the folder `Lab_3`.  Then zip up the two files inside the `Lab_3` folder.  Do NOT zip up the folder `Lab_3`. Submit this zip file to Gradescope under `Lab_3_Code`. 
-
-5. The autograder on Gradscope will be open all the time. We designed some simple test cases to help you check wehther your functions are execuable. You will see the results of running autogrder once you submit your code. If you see 'test `function_name` completed', it means your function is execuable; otherwise please follow the error messages to debug. Since those simple test cases are designed for debugging, it does not guaranttee your solution will work well on the real dataset. It is your responsibility to make your code logically correct.
-
-6. Only one member of each team needs to submit.  But please specify **all** your teammates on Gradescope. After each submission, please click 'Add Group Member' (top-right corner of your submission page) to claim all teammates.
-
-You can submit to Gradescope as often as you like. We will only consider your last submission before the deadline.
-"""
